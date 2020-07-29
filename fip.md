@@ -1,9 +1,31 @@
+# FIP
+
+like from fip app
+
+-> favorite list in fip app
+
+--> export to Notes app
+
+---> check newest
+
+----> add to this file
+
+-----> preview vith 'command'+shift+p markdown
+
+[__Artist__ song title](clickable) `Album` #feel
+
+Make youtube playlist: `http://www.youtube.com/watch_videos?video_ids=`
+
+__Youtube playlist__ [With a Google Sheet @labnol](https://docs.google.com/spreadsheets/d/1GMVA3MT-VUR56qXFQmERp4bEYagyuGSp85epsyJ5AkE/copy)
+
 ***
 
-FIP
+[OnDrive Public Link](https://boyer-my.sharepoint.com/:t:/g/personal/sun_boyer_onmicrosoft_com/EeHa2s4nsvNOiR8JPxSEilYBOHDHWnWC08xDNjGsUmpMBA?e=0sqkef)
 
-Introuvable
------------
+***
+
+#Introuvable
+============
 - Addis Nat par Hailu Mergia sur Lala Belu
 - Beggin par Frankie Valli And The Four Seasons sur Bof / Tellement Proches
 - Ciya par Theon Cross & Moses Boyd & Wayne Francis (Ahnanse) & Nathaniel Cross & Artie Zaitz sur Fyah
@@ -95,11 +117,8 @@ __Youtube playlist__ [noname](https://www.youtube.com/watch?v=b-mJv5Exhjg&list=T
 - [__Lindigo__ - Souvnans](https://www.youtube.com/watch?v=iAnwC0XcbEE) #lareunion #coolclip thanks @abel
 
 
-#electro
-========
-
 #electro pas hard
------------------
+=================
 __Youtube playlist__ [noname](https://www.youtube.com/watch?v=sKZN115n6MI&list=TLGGf1tlF8o-p28yMzAyMjAxOQ)
 - [__Radiohead__ Everything In Its Right Place](https://www.youtube.com/watch?v=sKZN115n6MI) sur `Kid A` #classic
 - [__Massive Attack__ Dissolved Girl](https://www.youtube.com/watch?v=6lcZ0redg1s) sur `Mezzanine` #classic
@@ -139,7 +158,7 @@ __Youtube playlist__ [noname](https://www.youtube.com/watch?v=sKZN115n6MI&list=T
 
 
 #electro hard
--------------
+=============
 __Youtube playlist__ [noname](https://www.youtube.com/watch?v=y5uAcCZ0Qm4&list=TLGGl0B06QeedE4yMzAyMjAxOQ)
 - [__Romare__ Your Love (You Give Me Fever)](https://www.youtube.com/watch?v=y5uAcCZ0Qm4) sur `Love Songs. Pt. 1`
 - [__L Oeuf Raide__ Vu A La Tv](https://www.youtube.com/watch?v=hi7PV0GW9tA) sur `Audioactivism` #lourd #voice #french #tv #think #fun 
@@ -184,8 +203,8 @@ __Youtube playlist__ [noname](https://www.youtube.com/watch?v=5cP_dkQXqmY&list=T
 - [__Robert Mitchum__ Matilda Matilda](https://www.youtube.com/watch?v=7fGNZP0p7Hk) sur `Calypso - Is Like So...` #cocojambo #singer 
 
 
-NOTES
-=====
+#NOTES
+======
 
 [__Artist__ song title FAKE LINK](https://github.com/nobyr/son/blob/master/fip.md) `Album` #feel
 
