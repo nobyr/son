@@ -181,21 +181,23 @@
 
 ##below is the refreshed list as of june 2020
 
-[__Bebel Gilberto__ Sun Is Shining](https://www.youtube.com/watch?v=VrzlX8cdzqk) `All In One` #naFeel
+[__Bebel Gilberto__ Sun Is Shining](https://www.youtube.com/watch?v=VrzlX8cdzqk) `All In One` #vahinee #jazz
 
-[__Ella Fitzgerald__ Ringo Beat](https://www.youtube.com/watch?v=gj6-9V4f6i4) `Verve : The Sound Of America` #naFeel
+[__Ella Fitzgerald__ Ringo Beat](https://www.youtube.com/watch?v=gj6-9V4f6i4) [alternative-link](https://www.youtube.com/watch?v=Ffi4nltt-DM) `Verve : The Sound Of America` #unavailable!
 
-[__Average White Band__ Pick Up The Pieces](https://www.youtube.com/watch?v=FnH_zwVmiuE) `Greatest Hits Of The 70'S` #naFeel
+[__Average White Band__ Pick Up The Pieces](https://www.youtube.com/watch?v=FnH_zwVmiuE) `Greatest Hits Of The 70'S` #classic #funk #guitar
 
-[__Dawn Penn__ No No No](https://www.youtube.com/watch?v=0mNPKNAQl4c) `Studio One Rockers  The Original` #naFeel
+[__Dawn Penn__ No No No](https://www.youtube.com/watch?v=0mNPKNAQl4c) `Studio One Rockers  The Original` #classic #reggae
 
-[__The Pioneers__ Papa Was A Rolling Stone](https://www.youtube.com/watch?v=FLQl-NLhH8M) `Let Your Yeah Be Yeah  1966 / 1986` #naFeel
+[__The Pioneers__ Papa Was A Rolling Stone](https://www.youtube.com/watch?v=FLQl-NLhH8M) `Let Your Yeah Be Yeah  1966 / 1986` #original #upbeat #reggae [lyrics](https://genius.com/The-pioneers-papa-was-a-rolling-stone-lyrics)
 
-[__Elvin Jones__ Pollen](https://www.youtube.com/watch?v=saOIqY5Qnsc) `Chips & Cheers` #naFeel
+[__Elvin Jones__ Pollen](https://www.youtube.com/watch?v=saOIqY5Qnsc) `Chips & Cheers` #sas2decompression #jazz
 
-[__Ondubground__ Black Roses (Remix)](https://www.youtube.com/watch?v=QSjL9hZSwxA) `Rub Up The Right Dub` #naFeel
+====
 
-[__Quannum Mcs__ Blue Flames](https://www.youtube.com/watch?v=rGpd7miVhGM) `Xen Cuts` #naFeel
+[__Ondubground__ Black Roses (Remix)](https://www.youtube.com/watch?v=QSjL9hZSwxA) `Rub Up The Right Dub` #remix #dub #reggae #lightitup
+
+[__Quannum Mcs__ Blue Flames](https://www.youtube.com/watch?v=rGpd7miVhGM) `Xen Cuts` #
 
 [__Cut La Roc__ Freeze](https://www.youtube.com/watch?v=UxOwcj2qgec) `20 Years Of Being  Skint` #naFeel
 
