@@ -176,6 +176,11 @@
 
 [__Clara Moto__ Pale Fire](https://www.youtube.com/watch?v=NAPCK2HphS8) `Glove Affair` #naFeel
 
+#above is classified or it should
+=================================
+
+##below is the refreshed list as of june 2020
+
 [__Bebel Gilberto__ Sun Is Shining](https://www.youtube.com/watch?v=VrzlX8cdzqk) `All In One` #naFeel
 
 [__Ella Fitzgerald__ Ringo Beat](https://www.youtube.com/watch?v=gj6-9V4f6i4) `Verve : The Sound Of America` #naFeel
